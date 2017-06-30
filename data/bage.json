@@ -1,0 +1,42 @@
+{
+    "id": "bage",
+    "date": "2017-08-26",
+    "city": "Bagé",
+    "institution": {
+        "courses": [
+            {
+                "name": "Engenharia da Computação",
+                "url": "https://www.ftec.com.br/graduacao/curso/Analise-e-Desenvolvimento-de-Sistemas"
+            }
+        ],
+        "long_name": "UNIPAMPA Campus Bagé",
+        "short_name": "UNIPAMPA",
+        "address": "",
+        "url": "http://porteiras.unipampa.edu.br/bage/",
+        "logo": "unipampa.png",
+        "latitude": -31.306729,
+        "longitude": -54.063899
+    },
+    "sponsors": [
+    ],
+    "support": [
+    ],
+    "rooms" : [
+        { "number": "1", "subject": "" },
+        { "number": "2", "subject": "" },
+        { "number": "3", "subject": "" },
+        { "number": "4", "snebject": "" }
+    ],
+    "callForPapers": {
+        "url": "https://goo.gl/forms/KcQcN7WIkrTNlkxY2",
+        "deadline": "2017-08-01",
+        "start": "2017-07-01"
+    },
+    "enrollment": {
+        "start": "2017-07-26",
+        "deadline": "2017-08-25",
+        "url": "https://goo.gl/forms/oqdZJaX1LlIF0eUf1",
+        "availability": 200,
+        "closed": false
+    }
+}
