@@ -18,6 +18,23 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 **Importante:** Não esqueça de confirmar sua presença no credenciamento.
 
+## Programação
+
+| <center> Horário </center> | <center> Sala 1 </center> | <center> Sala 2 </center> | <center> Sala 3 </center> |
+|:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| **08:30** <td colspan=4><center>**Credenciamento**</center> |
+| **09:00** <td colspan=4><center>**Abertura**<br> Auditório <br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
+| **09:20** <td colspan=4><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source) <br> Auditório <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
+| **10:10** <td colspan=4><center>[**Empreendendo e gerando oportunidades na região da Campanha com Software Livre**](#Empreendendo_e_gerando_oportunidades_na_região_da_Campanha_com_Software_Livre) <br> Auditório <br> <span class="label label-success">Principiante</span> <br> Everton Catto Heckler, Fabrizio Mello |
+| **11:10** | [**Golang: a linguagem de programação mais esperada do ano**](#Golang:_a_linguagem_de_programação_mais_esperada_do_ano) <br> <span class="label label-success">Principiante</span> <br> Ricardo Robaina | [**Web Scraping: a arte de automatizar a recuperação de informação na Web**](#Web_Scraping:_a_arte_de_automatizar_a_recuperação_de_informação_na_Web) <br> <span class="label label-success">Principiante</span> <br> Alex Dias Camargo | [**AION Ferramenta de Gestão de Tarefas: Da planilha ao Software Livre**](#AION_Ferramenta_de_Gestão_de_Tarefas:_Da_planilha_ao_Software_Livre) <br> <span class="label label-success">Principiante</span> <br> Fernando Fagonde |
+| **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
+| **13:30** | [**Porque Você Deve Aprender Rust**](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | [**Faça coisas fantásticas com PHP!**](#Faça_coisas_fantásticas_com_PHP!) <br> <span class="label label-warning">Intermediário</span> <br> Everton Catto Hecker | [**Criação de uma Startup de Transformação Digital: Os desafios do modelo de negócio ao produto**](#Criação_de_uma_Startup_de_Transformação_Digital:_Os_desafios_do_modelo_de_negócio_ao_produto) <br> <span class="label label-success">Principiante</span> <br> Fernando Fagonde |
+| **14:20** | [**Desenvolvendo Jogos com Python e Pygame**](#Desenvolvendo_Jogos_com_Python_e_Pygame) <span class="label label-success">Principiante</span> <br> Rafael Jeffman | [**Introdução ao desenvolvimento Android com Kotlin**](#Introdução_ao_desenvolvimento_Android_com_Kotlin) <span class="label label-success">Principiante</span> <br> Ricardo Robaina |[**Git em projetos acadêmicos**](#Git_em_projetos_acadêmicos) <br> <span class="label label-success">Principiante</span> <br> Sandro Custódio |
+| **15:10** <td colspan=4><center>**Coffee-Break**</center> |
+| **15:40** | [**Dados no espaço-tempo: Trabalhando com Dados Georreferenciados no MongoDB**](#Dados_no_espaço-tempo:_Trabalhando_com_Dados_Georreferenciados_no_MongoDB) <br> <span class="label label-success">Principiante</span> <br> Ricardo Robaina | [**Introdução ao Desenvolvimento Móvel com Ionic**](#Introdução_ao_Desenvolvimento_Móvel_com_Ionic) <br> <span class="label label-success">Principiante</span> <br> Rafael Jeffman | [**Mecanismos anti-exploit nativos em distribuições Linux da atualidade**](#Mecanismos_anti-exploit_nativos_em_distribuições_Linux_da_atualidade) <br> <span class="label label-warning">Intermediário</span> <br> Roner Rodriguez |
+| **16:30** | [**Como entregar aplicações Java com mais eficiência usando Quarkus**](#Como_entregar_aplicações_Java_com_mais_eficiência_usando_Quarkus) <br> <span class="label label-warning">Intermediário</span> <br> Rodrigo Freitas | [**PHP e PostgreSQL: Dois elefantes ajudando no seu projeto!**](#PHP_e_PostgreSQL:_Dois_elefantes_ajudando_no_seu_projeto!) <br> <span class="label label-success">Principiante</span> <br> | [**Projeto Unihacker**](#Projeto_Unihacker) <br> <span class="label label-success">Principiante</span> <br> Pablo Andrades Lima |
+| **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
+
 ## Local
 
 > **Universidade Federal do Pampa**
