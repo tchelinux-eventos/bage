@@ -6,11 +6,13 @@ O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universid
 
 ## Inscrições
 
-As inscrições estarão abertas a partir do dia 26 de Agosto, quando a **programação do evento** for anunciada.
+As inscrições estarão abertas a partir do dia 5 de Setembro, quando a **programação do evento** for anunciada.
 
 O evento tem **entrada franca**, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são doados a instituições de caridade da região.
 
 Os alimentos são recebidos no momento do credenciamento.
+
+<center><a href="https://bage.tchelinux.org/inscricoes/" style="color:#ff4040"><b><h3>Clique aqui e faça sua inscrição!<h3></b></a></center>
 
 ## Certificados
 
@@ -128,7 +130,6 @@ Git em projetos acadêmicos, como num TCC onde um pequeno grupo desenvolve em co
 ### Sandro Custódio
 
 [**Sandro Custódio**](https://www.linkedin.com/in/sandro-custodio/) é Servidor Público da Justiça Federal com mais de 20 anos de TI, foco no Suporte a usuários, pitadas de infra e mais recentemente retornando ao desenvolvimento. Seu primeiro contato com Linux foi em 2003, e desde 2012 usa apenas Linux em casa. Já administrou UNIX e nos dias de hoje utiliza Ubuntu, Mint e CentOS. Tem como hobbies: Moto, Viagens, Fotografia e Astronomia. 
-
 
 ### Dados no espaço-tempo: Trabalhando com Dados Georreferenciados no MongoDB
 
