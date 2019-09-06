@@ -35,6 +35,157 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **16:30** | [**Como entregar aplicações Java com mais eficiência usando Quarkus**](#Como_entregar_aplicações_Java_com_mais_eficiência_usando_Quarkus) <br> <span class="label label-warning">Intermediário</span> <br> Rodrigo Freitas | [**PHP e PostgreSQL: Dois elefantes ajudando no seu projeto!**](#PHP_e_PostgreSQL:_Dois_elefantes_ajudando_no_seu_projeto!) <br> <span class="label label-success">Principiante</span> <br> | [**Projeto Unihacker**](#Projeto_Unihacker) <br> <span class="label label-success">Principiante</span> <br> Pablo Andrades Lima |
 | **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 
+## Palestras 
+
+### Porque e Como Participar de Projetos Open Source
+
+No mundo atual, todos usam pelo menos um aplicativo open source. Mas como participar disso? Como ajudar o aplicativo a melhorar? É preciso saber programar para ajudar? Essas e outras perguntas serão respondidas nessa apresentação.
+
+### Julio Biason
+
+[**Julio Biason**](https://functional.cafe/@juliobiason) participa de projetos open source desde 1990.
+
+### Empreendendo e gerando oportunidades na região da Campanha com Software Livre
+
+Um bate papo contando sobre como o Empreendedorismo e o Software Livre podem ajudar a gerar oportunidades e reter talentos na região da Campanha.
+
+### Everton Catto Heckler
+
+[**Everton Catto Heckler**](https://www.linkedin.com/in/everton-heckler/) é CEO da Catto Tecnologia Aplicada. Graduado na Urcamp, é desenvolvedor de software a muito tempo.
+
+### Golang: a linguagem de programação mais esperada do ano
+
+A linguagem Golang (ou simplesmente "Go") foi anunciada no ano de 2009 e dês de então vem sendo venerada por seu usuários (também conhecido como "Gophers"). Segundo dados do Hacker Rank, Go é a linguagem que a maioria dos programadores deseja aprender em 2019. Embarque conosco nessa "Go Tour" e conheça um pouco sobre a linguagem de programação mais esperada do ano! 
+
+### Ricardo Robaina
+
+[**Ricardo Robaina**](https://github.com/robainaricardo) é bacharel em Engenharia de Computação pela Universidade Federal do Pampa, foi honrado com o prêmio SBC como aluno destaque de sua turma. Apaixonado por computação e por Software Livre, possui experiência com desenvolvimento de simuladores, jogos sérios, classificadores e aplicações móveis, além de trabalhos relacionados ao desenvolvimento de aceleradores de hardware e co-design. Atualmente é mestrando no Programa de Pós-Graduação em Computação Aplicada (PPGCAP) da UNIPAMPA e voluntário do Tchelinux.
+
+### Web Scraping: a arte de automatizar a recuperação de informação na Web
+
+As páginas Web tradicionais são construídas utilizando linguagens de marcação baseadas em textos (HTML ou XHTML), e frequentemente contêm uma riqueza de dados textuais úteis. Devido a isso, diferentes tecnologias foram criadas e que "raspam" conteúdos da Web. Um Web Scraping é uma implementação para extrair dados de um web site. O conteúdo pode ser usado para replicar em algum outro site ou para análise de dados. Nesta palestra você aprenderá a utilizar o Python para realizar Web scraping a fim de submeter e coletar informações de sites.
+
+### Alex Dias Camargo
+
+[**Alex Dias Camargo**](https://facebook.com/alexcamargoweb) é Bacharel em Sistemas de Informação pela URCAMP (2010), Especialista em Sistemas Distribuídos com Ênfase em Banco de Dados pela UNIPAMPA (2013) e Mestre em Engenharia de Computação pela FURG (2017). Atualmente é Doutorando em Ciência da Computação pela UFPEL, na modalidade aluno especial. Também é colaborador nos projetos de pesquisa Algo+: um portal para o apoio ao ensino de Algoritmos; Bioinformática Estrutural de Proteínas: modelos, algoritmos e aplicações biotecnológicas; bem como, UniHacker.Club: Clube Universidade Hacker. Além disso, é professor no Instituto Federal Sul-rio-grandense - Câmpus Bagé e revisor dos periódicos ICCEEg (ISSN 2236-0093) e CCEI (ISSN 2356-6635). Possui interesse nas áreas de programação para a web e dispositivos móveis, programação paralela, bancos de dados distribuídos, aprendizado de máquina, bioinformática estrutural, bases de dados biológicas e sistemas operacionais Linux (Ubuntu e Mint). Por fim, é entusiasta da Cosmologia, Astronomia e Astrofísica.
+
+### AION Ferramenta de Gestão de Tarefas: Da planilha ao Software Livre
+
+Após passar por uma reformulação no modo de aprendizagem, o que demandou muitas mudanças na área de sistemas, a equipe de desenvolvimento de software da URCAMP se organizou para desenvolver uma aplicação que auxiliasse no ciclo de vida de desenvolvimento de software.
+
+Após a sua criação e com alguns ajustes, fomos autorizados a liberar a aplicação como Software Livre.
+
+A apresentação visa apresentar as principais features desenvolvidas, os seus diferenciais e vantagens, bem como demonstrar as tecnologias utilizadas e quais os principais desafions para a criação de um Software Livre.
+
+### Fernando Fagonde
+
+[**Fernando Fagonde**](https://www.linkedin.com/in/fernandofagonde/) é Google Certified Educator, Especialista em Gestão e Segurança de Redes de Computadores, Coordenador de Desenvolvimento de Software e Empresário.
+
+### Porque Você Deve Aprender Rust
+
+Rust (a linguagem, não o jogo) é uma linguagem que produz código em que a memória é protegida. Trazendo muitas das funcionalidades de linguagens funcionais, com abstrações de alto nível e performance semelhante a C, Rust é uma linguagem que você realmente deve aprender.
+
+### Julio Biason
+
+[**Julio Biason**](https://functional.cafe/@juliobiason) é programador desde os 12 anos e já conheceu várias linguagens, mas nenhuma que fosse tão interessante quanto Rust.
+
+### Faça coisas fantásticas com PHP!
+
+Pretendo apresentar algumas boas práticas para para desenvolvimento. Também pretendo mostrar algumas ferramentas que ajudam o nosso dia a dia.
+
+### Everton Catto Heckler
+
+[**Everton Catto Heckler**](https://www.linkedin.com/in/everton-heckler/) é CEO da Catto Tecnologia Aplicada. Graduado na Urcamp, é desenvolvedor de software a muito tempo.
+
+### Criação de uma Startup de Transformação Digital: Os desafios do modelo de negócio ao produto
+
+Apesar de ser cadeira unânime na maioria dos cursos superiores, empreendedorismo é um desafio até para o profissional mais experiente. Nesta palestra, vamos apresentar a ideia por trás da concepção da Ípsillon, que é uma startup que está em fase de MVP do seu primeiro produto e os desafios enfrentados para chegar na primeira proposta de entrega de valor ao usuário. Passando pela criação do documento norteador, registro da marca e criação do primeiro utilizando o Business Model Canvas.
+
+### Fernando Fagonde
+
+[**Fernando Fagonde**](ipsillon.cc) é Especialista em Segurança e Redes de Computadores, Professor Universitário,  Coordenador de Desenvolvimento de Sistemas na URCAMP e Co-fundador da Ípsillon | Y.
+
+### Desenvolvendo Jogos com Python e Pygame
+
+Jogar todo mundo joga. Programar, todo mundo pode. Jogar todo mundo treina. Programar, nem tanto. Mas para jogar é necessário que alguém desenvolva suas habilidades de programador. Nesse bate papo, porque ninguém mais tem paciência para palestras, será apresentada uma forma divertida de desenvolver a programação e conhecer a linguagem Python, construindo jogos, utilizando a biblioteca Pygame e ferramentas open source para desenvolver um jogo.
+
+### Rafael Jeffman
+
+[**Rafael Jeffman**](https://github.com/rafasgj) é Rafael Jeffman é desenvolvedor de software fotógrafo, impressor e professor universitário. Leciona de desenvolvimento de software, estruturas de dados e design de jogos. Colaborou por anos com a distribuição GoboLinux. Entre seus projetos atuais encontram-se, um sistema de gerenciamento de ativos digitais multiplataforma, open source, uma linguagem de domínio para o ensino de design de jogos, e um sistema de dataflow para o processamento multimidia.
+
+### Introdução ao desenvolvimento Android com Kotlin
+
+Atualmente, cerca de 88% dos dispositivos móveis utilizam o sistema operacional Android. No Google I/O de 2017, a linguagem de programação Kotlin foi incluída como uma linguagem com suporte oficial para o desenvolvimento desta plataforma. Essa palestra tem como objetivo introduzir o processo de desenvolvimento de aplicativos Android, utilizando a linguagem de programação Kotlin.
+
+### Ricardo Robaina
+
+[**Ricardo Robaina**](https://github.com/robainaricardo) é bacharel em Engenharia de Computação pela Universidade Federal do Pampa, foi honrado com o prêmio SBC como aluno destaque de sua turma. Apaixonado por computação e por Software Livre, possui experiência com desenvolvimento de simuladores, jogos sérios, classificadores e aplicações móveis, além de trabalhos relacionados ao desenvolvimento de aceleradores de hardware e co-design. Atualmente é mestrando no Programa de Pós-Graduação em Computação Aplicada (PPGCAP) da UNIPAMPA e voluntário do Tchelinux.
+
+### Git em projetos acadêmicos
+
+Git em projetos acadêmicos, como num TCC onde um pequeno grupo desenvolve em conjunto. O Git é "a ferramenta" de versionamento e software criada por Linus Torvalds e que dominou o mercado atual. É não apenas gratuíta, é mais que isso, é um Software Livre, de ampla utilização e altamente reconhecido. Até os serviços web que suportam o Git são bons e gratuitos nestes casos.
+
+### Sandro Custódio
+
+[**Sandro Custódio**](https://www.linkedin.com/in/sandro-custodio/) é Servidor Público da Justiça Federal com mais de 20 anos de TI, foco no Suporte a usuários, pitadas de infra e mais recentemente retornando ao desenvolvimento. Seu primeiro contato com Linux foi em 2003, e desde 2012 usa apenas Linux em casa. Já administrou UNIX e nos dias de hoje utiliza Ubuntu, Mint e CentOS. Tem como hobbies: Moto, Viagens, Fotografia e Astronomia. 
+
+
+### Dados no espaço-tempo: Trabalhando com Dados Georreferenciados no MongoDB
+
+Algumas coisas mudam de lugar no espaço, outras apenas mudam com o passar do tempo. Já a maioria das coisas estão sempre mudando tanto em relação ao espaço quanto ao tempo. Hoje em dia, é possível identificar um lugar no espaço facilmente, devido à disponibilidade de sistemas de localização, como o GPS, em dispositivos móveis. Aplicações baseadas em localização são cada vez mais comuns e apresentam-se com diferentes objetivos: coletar dados de trajetória durante uma atividade física, encontrar o meio de transporte ou o amor mais próximo ou até mapear a variabilidade espacial em sistemas de agricultura de precisão. O banco de dados MongoDB possui suporte a dados e a operações georreferenciadas. O objetivo dessa palestra é apresentar as principais funcionalidades do MongoDB com potencial utilização em aplicações baseadas em localização.
+
+### Ricardo Robaina
+
+[**Ricardo Robaina**](https://github.com/robainaricardo) é bacharel em Engenharia de Computação pela Universidade Federal do Pampa, foi honrado com o prêmio SBC como aluno destaque de sua turma. Apaixonado por computação e por Software Livre, possui experiência com desenvolvimento de simuladores, jogos sérios, classificadores e aplicações móveis, além de trabalhos relacionados ao desenvolvimento de aceleradores de hardware e co-design. Atualmente é mestrando no Programa de Pós-Graduação em Computação Aplicada (PPGCAP) da UNIPAMPA e voluntário do Tchelinux.
+
+### Introdução ao Desenvolvimento Móvel com Ionic
+
+Existem duas formas de desenvolver aplicações para dispositivos móveis, utilizando ferramentas nativas, ou utilizando ferramentas híbridas, e cada uma apresenta suas vantagens e desvantagens. Ionic é uma ferramenta híbrida para desenvolvimento de aplicações multi-plataforma, que permite o uso de componentes nativos, mantendo, ainda assim, uma base de código comum. Nessa palestra desenvolveremos uma pequena aplicação para consulta a serviços disponibilizados na web, examinando cada passo do desenvolvimento.
+
+### Rafael Jeffman
+
+[**Rafael Jeffman**](https://github.com/rafasgj) é Rafael Jeffman é desenvolvedor de software fotógrafo, impressor e professor universitário. Leciona de desenvolvimento de software, estruturas de dados e design de jogos. Colaborou por anos com a distribuição GoboLinux. Entre seus projetos atuais encontram-se, um sistema de gerenciamento de ativos digitais multiplataforma, open source, uma linguagem de domínio para o ensino de design de jogos, e um sistema de dataflow para o processamento multimidia.
+
+### Ricardo Robaina
+
+[**Ricardo Robaina**](https://github.com/robainaricardo) é bacharel em Engenharia de Computação pela Universidade Federal do Pampa, foi honrado com o prêmio SBC como aluno destaque de sua turma. Apaixonado por computação e por Software Livre, possui experiência com desenvolvimento de simuladores, jogos sérios, classificadores e aplicações móveis, além de trabalhos relacionados ao desenvolvimento de aceleradores de hardware e co-design. Atualmente é mestrando no Programa de Pós-Graduação em Computação Aplicada (PPGCAP) da UNIPAMPA e voluntário do Tchelinux.
+
+### Mecanismos anti-exploit nativos em distribuições Linux da atualidade
+
+O objetivo é apresentar um resumo dos mecanismos anti-exploit disponíveis na maioria das distros Linux modernas, além de justificar sua necessidade e apresentar detalhamento sobre a implementação de alguns destes, bem como seus bypass já divulgados.
+
+### Roner Rodriguez
+
+[**Roner Rodriguez**](https://github.com/Ansatsuken1337x/) é Graduando no curso de Engenharia de Computação na Unipampa Campus Bagé e trabalha atualmente como desenvolvedor Delphi com SQL.
+
+### Como entregar aplicações Java com mais eficiência usando Quarkus
+
+Quarkus é um framework desenvolvido pela RedHat, personalizado para GraalVM e OpenJDK utilizando o HotSpot como Java Virtual Machine (JVM), sendo possível usar as versões 8 e 11 do OpenJDK (respectivamente 8u222-b10 e 11.0.4+11). Com ele podemos usar Java e/ou Kotlin como linguagem de programação para desenvolvermos nossas aplicações.
+
+Quarkus veio para despedaçar o paradigma de que java é lento, pesado e que não atende às exigências de arquiteturas de desenvolvimento de aplicações atuais. Utilizando a técnica de compilação Ahead-of-time compilation (AOT compilation) que em conjunto com a GraalVM produzem um código otimizado para a máquina ou seja utilizando instruções nativas do Sistema Operacional (SO), assim como os compiladores convencionais que normalmente já conhecemos. Porém a diferença está em como ele faz isso, basicamente transformando bytecode da máquina virtual (VM) em código de máquina. Isso se difere do que a JVM faz, que é executar o bytecode Java e compilar o código freqüentemente executado para o código nativo, usando a técnica de compilação Just-in-Time (JIT) que por sua vez utiliza heurísticas para saber quando fazer isso. Quarkus é incrivelmente rápido em tempo de inicialização, além de utilizar pouca memoria, o que alavanca a adoção dele para aplicações claud-native ou seja nativo para nuvem.
+
+A talk contempla a explicação sobre Quarkus, suas extensões, uma breve explicação sobre JVM, GraalVM e um live code para construirmos uma PoC demonstrando como usar o Quarkus.
+
+### Rodrigo Freitas
+
+[**Rodrigo Freitas**](https://www.linkedin.com/in/rodrigo-freitas-26b973101/) é Back-end developer na DB1 Global Software, completamente apaixonado por tecnologia, gestão ágil, desenvolvimento de software, desenvolvimento pessoal, cultura geek e chimarrão. Trabalha com Java e web a aproximadamente 6 anos, faz parte do time de coordenadores do Grupo de Usuários Java do Rio Grande do Sul (RSJUG), é graduado em Análise e Desenvolvimento de Sistemas pelo IFSul Campus Bagé onde hoje faz parte do corpo docente como professor substituto. Tem se dedicado a evangelizar sobre trabalho e cultura remota. 
+
+### PHP e PostgreSQL: Dois elefantes ajudando no seu projeto!
+
+Dependendo do sistema onde vamos aplicar está técnica de Full-text search usamos ferramentas como Elasticsearch, Apache Solr, Lucene. Com está palestra pretendo mostrar uma alternativa simples para aqueles sistemas pequenos onde ainda não precisamos aplicar um esforço/Custo ao projeto, pretendo utilizar uma abordagem mostrando como se é feito "no braço" e depois a formar mais simples. utilizaremos nesta palestra PHP, PostgreSQL, Framework Laravel. 
+
+### Everton Catto Heckeler
+
+[**Everton Catto Heckler**](https://www.linkedin.com/in/everton-heckler/) é CEO da Catto Tecnologia Aplicada. Graduado na Urcamp, é desenvolvedor de software a muito tempo.
+
+### Projeto Unihacker
+
+Apresentação do Projeto Unihacker
+
+### Pablo Andrades Lima
+
+[**Pablo Andrades Lima**](http://unihacker.club/) é Graduando de Engenharia de Computação da Unipampa Bagé, Membro do Grupo Unihacker e Técnico Regional de TI da Emater/RS.
+
 ## Local
 
 > **Universidade Federal do Pampa**
