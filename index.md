@@ -4,12 +4,6 @@
 
 O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universidade Federal do Pampa Campus Bagé**](http://novoportal.unipampa.edu.br/bage/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **05 de Outubro de 2019 a partir das 8:30h** na UNIPAMPA em Bagé.
 
-## Chamada de Trabalhos
-
-A Chamada de Trabalhos está aberta e o **prazo para submissão** de propostas de palestra é **24 de Agosto de 2019**. Os trabalhos escolhidos serão anúnciados no dia 26 de Agosto de 2019.
-
-<center><a href="https://bage.tchelinux.org/cfp/" style="color:#ff4040"><h3><b>Clique aqui e submeta sua palestra agora mesmo!</b></h3></a></center>
-
 ## Inscrições
 
 As inscrições estarão abertas a partir do dia 26 de Agosto, quando a **programação do evento** for anunciada.
