@@ -13,7 +13,6 @@ O evento tem **entrada franca**, porém os participantes são encorajados a doar
 Os alimentos são recebidos no momento do credenciamento.
 
 <center><a href="https://bage.tchelinux.org/inscricoes/" style="color:#ff4040"><b><h3>Clique aqui e faça sua inscrição!<h3></b></a></center>
-
 ## Certificados
 
 Serão fornecidos certificados digitais para os participantes do evento, que confirmaram sua presença. Para obtê-los, você deverá utilizar o email fornecido na sua inscrição para o evento.
@@ -202,6 +201,12 @@ Apresentação do Projeto Unihacker
 ### Institucional
 
 [![UNIPAMPA](images/UNIPAMPA.png)](http://novoportal.unipampa.edu.br/bage/)
+
+### Patrocínio
+
+[![Zap Tchê](images/logo_zaptche.png)](http://zaptche.com.br/)
+[![Sicredi](images/logo_sicredi.png)](https://www.sicredi.com.br/site/home)
+[![Universo de Bolso](images/logo_universodebolso.png)](https://www.facebook.com/universodbolso/)
 
 ### Divulgação
 
