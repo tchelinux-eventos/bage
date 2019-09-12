@@ -54,9 +54,9 @@ Um bate papo contando sobre como o Empreendedorismo e o Software Livre podem aju
 
 [**Everton Catto Heckler**](https://www.linkedin.com/in/everton-heckler/) é CEO da Catto Tecnologia Aplicada. Graduado na Urcamp, é desenvolvedor de software a muito tempo.
 
-### Golang: a linguagem de programação mais esperada do ano
+### Golang: a sua próxima linguagem de programação favorita
 
-A linguagem Golang (ou simplesmente "Go") foi anunciada no ano de 2009 e dês de então vem sendo venerada por seu usuários (também conhecido como "Gophers"). Segundo dados do Hacker Rank, Go é a linguagem que a maioria dos programadores deseja aprender em 2019. Embarque conosco nessa "Go Tour" e conheça um pouco sobre a linguagem de programação mais esperada do ano! 
+A linguagem Golang (ou simplesmente "Go") foi anunciada no ano de 2009 e dês de então vem sendo venerada por seu usuários (também conhecido como "Gophers"). Segundo dados do Hacker Rank, Go é a linguagem que a maioria dos programadores deseja aprender em 2019. Embarque conosco nessa "Go Tour" e conheça um pouco sobre a sua próxima linguagem de programação favorita! 
 
 ### Ricardo Robaina
 
@@ -205,8 +205,18 @@ Apresentação do Projeto Unihacker
 ### Patrocínio
 
 [![Zap Tchê](images/logo_zaptche.png)](http://zaptche.com.br/)
+[![Pontocom Informática](images/logo_pontocom.png)](http://www.cominformatica.com/)
+[![Ipsillon | Y](images/logo_ipsillon.png)](https://www.facebook.com/ipsillonbr/)
+
 [![Sicredi](images/logo_sicredi.png)](https://www.sicredi.com.br/site/home)
+[![TopWay](images/logo_topway.png)](https://www.topwayschool.com/)
 [![Universo de Bolso](images/logo_universodebolso.png)](https://www.facebook.com/universodbolso/)
+
+[![Espaço da Bento](images/logo_espacodabento.png)](https://www.facebook.com/EspacoDaBento)
+[![Academia Personal Care](images/logo_personalcare.png)](https://www.facebook.com/AcademiaPersonalCareBage/)
+
+
+
 
 ### Divulgação
 
