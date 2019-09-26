@@ -27,7 +27,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **09:00** <td colspan=4><center>**Abertura**<br> Espaço Zap Tchê <br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
 | **09:20** <td colspan=4><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source) <br> Espaço Zap Tchê <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
 | **10:10** <td colspan=4><center>[**Empreendendo e gerando oportunidades na região da Campanha com Software Livre**](#Empreendendo_e_gerando_oportunidades_na_região_da_Campanha_com_Software_Livre) <br> Espaço Zap Tchê <br> <span class="label label-success">Principiante</span> <br> Everton Catto Heckler, Fabrizio Mello |
-| **11:10** | [**Golang: a linguagem de programação mais esperada do ano**](#Golang:_a_linguagem_de_programação_mais_esperada_do_ano) <br> <span class="label label-success">Principiante</span> <br> Ricardo Robaina | [**Web Scraping: a arte de automatizar a recuperação de informação na Web**](#Web_Scraping:_a_arte_de_automatizar_a_recuperação_de_informação_na_Web) <br> <span class="label label-success">Principiante</span> <br> Alex Dias Camargo | [**AION Ferramenta de Gestão de Tarefas: Da planilha ao Software Livre**](#AION_Ferramenta_de_Gestão_de_Tarefas:_Da_planilha_ao_Software_Livre) <br> <span class="label label-success">Principiante</span> <br> Fernando Fagonde |
+| **11:10** | [**Golang: a linguagem de programação mais esperada do ano**](#Golang:_a_linguagem_de_programação_mais_esperada_do_ano) <br> <span class="label label-success">Principiante</span> <br> Ricardo Robaina | [**Web Scraping: a arte de automatizar a recuperação de informação na Web**](#Web_Scraping:_a_arte_de_automatizar_a_recuperação_de_informação_na_Web) <br> <span class="label label-success">Principiante</span> <br> Alex Dias Camargo | [**Introdução a React Native com Expo**](# Introducao_a_React_Native_com_Expo)<br> <span class="label label-success">Principiante</span> <br> Welbert Hime |
 | **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
 | **13:30** | [**Porque Você Deve Aprender Rust**](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | [**Faça coisas fantásticas com PHP!**](#Faça_coisas_fantásticas_com_PHP!) <br> <span class="label label-warning">Intermediário</span> <br> Everton Catto Hecker | [**Criação de uma Startup de Transformação Digital: Os desafios do modelo de negócio ao produto**](#Criação_de_uma_Startup_de_Transformação_Digital:_Os_desafios_do_modelo_de_negócio_ao_produto) <br> <span class="label label-success">Principiante</span> <br> Fernando Fagonde |
 | **14:20** | [**Desenvolvendo Jogos com Python e Pygame**](#Desenvolvendo_Jogos_com_Python_e_Pygame) <span class="label label-success">Principiante</span> <br> Rafael Jeffman | [**Introdução ao desenvolvimento Android com Kotlin**](#Introdução_ao_desenvolvimento_Android_com_Kotlin) <span class="label label-success">Principiante</span> <br> Ricardo Robaina |[**Git em projetos acadêmicos**](#Git_em_projetos_acadêmicos) <br> <span class="label label-success">Principiante</span> <br> Sandro Custódio |
@@ -36,7 +36,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **16:30** | [**Como entregar aplicações Java com mais eficiência usando Quarkus**](#Como_entregar_aplicações_Java_com_mais_eficiência_usando_Quarkus) <br> <span class="label label-warning">Intermediário</span> <br> Rodrigo Freitas | [**PHP e PostgreSQL: Dois elefantes ajudando no seu projeto!**](#PHP_e_PostgreSQL:_Dois_elefantes_ajudando_no_seu_projeto!) <br> <span class="label label-success">Principiante</span> <br> Everton Catto Heckler | [**Projeto Unihacker**](#Projeto_Unihacker) <br> <span class="label label-success">Principiante</span> <br> Pablo Andrades Lima |
 | **17:20** <td colspan=4><center>**Encerramento**<br> Espaço Zap Tchê <br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 
-## Palestras 
+## Palestras
 
 ### Porque e Como Participar de Projetos Open Source
 
@@ -56,7 +56,7 @@ Um bate papo contando sobre como o Empreendedorismo e o Software Livre podem aju
 
 ### Golang: a sua próxima linguagem de programação favorita
 
-A linguagem Golang (ou simplesmente "Go") foi anunciada no ano de 2009 e dês de então vem sendo venerada por seu usuários (também conhecido como "Gophers"). Segundo dados do Hacker Rank, Go é a linguagem que a maioria dos programadores deseja aprender em 2019. Embarque conosco nessa "Go Tour" e conheça um pouco sobre a sua próxima linguagem de programação favorita! 
+A linguagem Golang (ou simplesmente "Go") foi anunciada no ano de 2009 e dês de então vem sendo venerada por seu usuários (também conhecido como "Gophers"). Segundo dados do Hacker Rank, Go é a linguagem que a maioria dos programadores deseja aprender em 2019. Embarque conosco nessa "Go Tour" e conheça um pouco sobre a sua próxima linguagem de programação favorita!
 
 ### Ricardo Robaina
 
@@ -72,15 +72,11 @@ As páginas Web tradicionais são construídas utilizando linguagens de marcaç�
 
 ### AION Ferramenta de Gestão de Tarefas: Da planilha ao Software Livre
 
-Após passar por uma reformulação no modo de aprendizagem, o que demandou muitas mudanças na área de sistemas, a equipe de desenvolvimento de software da URCAMP se organizou para desenvolver uma aplicação que auxiliasse no ciclo de vida de desenvolvimento de software.
+Se você é um novato em desenvolvimento mobile, um dos caminhos mais simples a seguir é com o Expo. Expo é um conjunto de ferramentas e serviços para build, deploy e rápida interação entre aplicativos iOS, Android e web utilizando o mesmo código fonte. Com Expo você pode desenvolver seu aplicativo React Native em alguns instantes, necessitando somente do Node.js instalado e um celular ou emulador e, assim, a única alteração em código que você faz é em JavaScript.
 
-Após a sua criação e com alguns ajustes, fomos autorizados a liberar a aplicação como Software Livre.
+### Welbert Hime
 
-A apresentação visa apresentar as principais features desenvolvidas, os seus diferenciais e vantagens, bem como demonstrar as tecnologias utilizadas e quais os principais desafions para a criação de um Software Livre.
-
-### Fernando Fagonde
-
-[**Fernando Fagonde**](https://www.linkedin.com/in/fernandofagonde/) é Google Certified Educator, Especialista em Gestão e Segurança de Redes de Computadores, Coordenador de Desenvolvimento de Software e Empresário.
+[**Welbert Hime**](https://github.com/himewel) é Diretor Presidente da Pampec Jr, estagiário na Justiça Militar e as vezes percussionista em banda de concerto. Formado em Técnico de Redes de Computadores na ETEC (2015) e graduando no curso de Engenharia de Computação na Unipampa - Campus Bagé (desde 2016). Atualmente estuda desenvolvimento de arquiteturas de hardware para algoritmos de Deep Learning, porém tem interesse também em desenvolvimento Web, Mobile e Software Livre.
 
 ### Porque Você Deve Aprender Rust
 
@@ -112,9 +108,9 @@ Jogar todo mundo joga. Programar, todo mundo pode. Jogar todo mundo treina. Prog
 
 ### Rafael Jeffman
 
-[**Rafael Jeffman**](https://github.com/rafasgj) é Rafael Jeffman é desenvolvedor de software fotógrafo, impressor e professor universitário. Leciona de desenvolvimento de software, estruturas de dados e design de jogos. Colaborou por anos com a distribuição GoboLinux. Entre seus projetos atuais encontram-se, um sistema de gerenciamento de ativos digitais multiplataforma, open source, uma linguagem de domínio para o ensino de design de jogos, e um sistema de dataflow para o processamento multimidia.
+[**Rafael Jeffman**](https://github.com/rafasgj) é Rafael Jeffman é desenvolvedor de software, fotógrafo, impressor e professor universitário. Leciona de desenvolvimento de software, estruturas de dados e design de jogos. Colaborou por anos com a distribuição GoboLinux, e hoje trabalha na Red hat. Entre seus projetos atuais encontram-se, um sistema de gerenciamento de ativos digitais multiplataforma, open source, uma linguagem de domínio para o ensino de design de jogos, e um sistema de dataflow para o processamento multimidia.
 
-### Introdução ao desenvolvimento Android com Kotlin
+### Introdução a React Native com Expo
 
 Atualmente, cerca de 88% dos dispositivos móveis utilizam o sistema operacional Android. No Google I/O de 2017, a linguagem de programação Kotlin foi incluída como uma linguagem com suporte oficial para o desenvolvimento desta plataforma. Essa palestra tem como objetivo introduzir o processo de desenvolvimento de aplicativos Android, utilizando a linguagem de programação Kotlin.
 
@@ -128,7 +124,7 @@ Git em projetos acadêmicos, como num TCC onde um pequeno grupo desenvolve em co
 
 ### Sandro Custódio
 
-[**Sandro Custódio**](https://www.linkedin.com/in/sandro-custodio/) é Servidor Público da Justiça Federal com mais de 20 anos de TI, foco no Suporte a usuários, pitadas de infra e mais recentemente retornando ao desenvolvimento. Seu primeiro contato com Linux foi em 2003, e desde 2012 usa apenas Linux em casa. Já administrou UNIX e nos dias de hoje utiliza Ubuntu, Mint e CentOS. Tem como hobbies: Moto, Viagens, Fotografia e Astronomia. 
+[**Sandro Custódio**](https://www.linkedin.com/in/sandro-custodio/) é Servidor Público da Justiça Federal com mais de 20 anos de TI, foco no Suporte a usuários, pitadas de infra e mais recentemente retornando ao desenvolvimento. Seu primeiro contato com Linux foi em 2003, e desde 2012 usa apenas Linux em casa. Já administrou UNIX e nos dias de hoje utiliza Ubuntu, Mint e CentOS. Tem como hobbies: Moto, Viagens, Fotografia e Astronomia.
 
 ### Dados no espaço-tempo: Trabalhando com Dados Georreferenciados no MongoDB
 
@@ -144,7 +140,7 @@ Existem duas formas de desenvolver aplicações para dispositivos móveis, utili
 
 ### Rafael Jeffman
 
-[**Rafael Jeffman**](https://github.com/rafasgj) é Rafael Jeffman é desenvolvedor de software fotógrafo, impressor e professor universitário. Leciona de desenvolvimento de software, estruturas de dados e design de jogos. Colaborou por anos com a distribuição GoboLinux. Entre seus projetos atuais encontram-se, um sistema de gerenciamento de ativos digitais multiplataforma, open source, uma linguagem de domínio para o ensino de design de jogos, e um sistema de dataflow para o processamento multimidia.
+[**Rafael Jeffman**](https://github.com/rafasgj) é Rafael Jeffman é desenvolvedor de software fotógrafo, impressor e professor universitário. Leciona de desenvolvimento de software, estruturas de dados e design de jogos. Colaborou por anos com a distribuição GoboLinux e hoje trabalha na Red Hat. Entre seus projetos atuais encontram-se, um sistema de gerenciamento de ativos digitais multiplataforma, open source, uma linguagem de domínio para o ensino de design de jogos, e um sistema de dataflow para o processamento multimidia.
 
 ### Ricardo Robaina
 
@@ -168,11 +164,11 @@ A talk contempla a explicação sobre Quarkus, suas extensões, uma breve explic
 
 ### Rodrigo Freitas
 
-[**Rodrigo Freitas**](https://www.linkedin.com/in/rodrigo-freitas-26b973101/) é Back-end developer na DB1 Global Software, completamente apaixonado por tecnologia, gestão ágil, desenvolvimento de software, desenvolvimento pessoal, cultura geek e chimarrão. Trabalha com Java e web a aproximadamente 6 anos, faz parte do time de coordenadores do Grupo de Usuários Java do Rio Grande do Sul (RSJUG), é graduado em Análise e Desenvolvimento de Sistemas pelo IFSul Campus Bagé onde hoje faz parte do corpo docente como professor substituto. Tem se dedicado a evangelizar sobre trabalho e cultura remota. 
+[**Rodrigo Freitas**](https://www.linkedin.com/in/rodrigo-freitas-26b973101/) é Back-end developer na DB1 Global Software, completamente apaixonado por tecnologia, gestão ágil, desenvolvimento de software, desenvolvimento pessoal, cultura geek e chimarrão. Trabalha com Java e web a aproximadamente 6 anos, faz parte do time de coordenadores do Grupo de Usuários Java do Rio Grande do Sul (RSJUG), é graduado em Análise e Desenvolvimento de Sistemas pelo IFSul Campus Bagé onde hoje faz parte do corpo docente como professor substituto. Tem se dedicado a evangelizar sobre trabalho e cultura remota.
 
 ### PHP e PostgreSQL: Dois elefantes ajudando no seu projeto!
 
-Dependendo do sistema onde vamos aplicar está técnica de Full-text search usamos ferramentas como Elasticsearch, Apache Solr, Lucene. Com está palestra pretendo mostrar uma alternativa simples para aqueles sistemas pequenos onde ainda não precisamos aplicar um esforço/Custo ao projeto, pretendo utilizar uma abordagem mostrando como se é feito "no braço" e depois a formar mais simples. utilizaremos nesta palestra PHP, PostgreSQL, Framework Laravel. 
+Dependendo do sistema onde vamos aplicar está técnica de Full-text search usamos ferramentas como Elasticsearch, Apache Solr, Lucene. Com está palestra pretendo mostrar uma alternativa simples para aqueles sistemas pequenos onde ainda não precisamos aplicar um esforço/Custo ao projeto, pretendo utilizar uma abordagem mostrando como se é feito "no braço" e depois a formar mais simples. utilizaremos nesta palestra PHP, PostgreSQL, Framework Laravel.
 
 ### Everton Catto Heckeler
 
