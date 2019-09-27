@@ -21,20 +21,20 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 ## Programação
 
-| <center> Horário </center> | <center> Sala Ípsillon </center> | <center> Sala Personal Care </center> | <center> Sala Universo de Bolso </center> |
+| <center> Horário </center> | <center> Sala Ípsillon </center> | <center> Sala Personal Care </center> | <center> Sala .Com Informática </center> |
 |:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| **08:30** <td colspan=4><center>**Credenciamento** <br> Espaço Café da Bento <br> </center> |
-| **09:00** <td colspan=4><center>**Abertura**<br> Espaço Zap Tchê <br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
-| **09:20** <td colspan=4><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source) <br> Espaço Zap Tchê <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
-| **10:10** <td colspan=4><center>[**Empreendendo e gerando oportunidades na região da Campanha com Software Livre**](#Empreendendo_e_gerando_oportunidades_na_região_da_Campanha_com_Software_Livre) <br> Espaço Zap Tchê <br> <span class="label label-success">Principiante</span> <br> Everton Catto Heckler, Fabrizio Mello |
+| **08:30** <td colspan=4><center>**Credenciamento** <br> Espaço Café da Bento <br> </center> ||||
+| **09:00** <td colspan=4><center>**Abertura**<br> Espaço Zap Tchê <br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> ||||
+| **09:20** <td colspan=4><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source) <br> Espaço Zap Tchê <br> <span class="label label-success">Principiante</span> <br> Julio Biason ||||
+| **10:10** <td colspan=4><center>[**Empreendendo e gerando oportunidades na região da Campanha com Software Livre**](#Empreendendo_e_gerando_oportunidades_na_região_da_Campanha_com_Software_Livre) <br> Espaço Zap Tchê <br> <span class="label label-success">Principiante</span> <br> Everton Catto Heckler, Fabrizio Mello ||||
 | **11:10** | [**Golang: a linguagem de programação mais esperada do ano**](#Golang:_a_linguagem_de_programação_mais_esperada_do_ano) <br> <span class="label label-success">Principiante</span> <br> Ricardo Robaina | [**Web Scraping: a arte de automatizar a recuperação de informação na Web**](#Web_Scraping:_a_arte_de_automatizar_a_recuperação_de_informação_na_Web) <br> <span class="label label-success">Principiante</span> <br> Alex Dias Camargo | [**Desenvolvendo Redes Neurais Articiais com WEKA e R**](#Desenvolvendo_Redes_Neurais_Articiais_com_WEKA_e_R) <br> <span class="label label-warning">Intermediário</span> <br> Rodrigo Silva |
-| **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
+| **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> ||||
 | **13:30** | [**Porque Você Deve Aprender Rust**](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | [**Faça coisas fantásticas com PHP!**](#Faça_coisas_fantásticas_com_PHP!) <br> <span class="label label-warning">Intermediário</span> <br> Everton Catto Hecker |  [**Introdução a React Native com Expo**](#Introdução_a_React_Native_com_Expo)<br> <span class="label label-success">Principiante</span> <br> Welbert Hime |
 | **14:20** | [**Desenvolvendo Jogos com Python e Pygame**](#Desenvolvendo_Jogos_com_Python_e_Pygame) <span class="label label-success">Principiante</span> <br> Rafael Jeffman | [**Introdução ao desenvolvimento Android com Kotlin**](#Introdução_ao_desenvolvimento_Android_com_Kotlin) <span class="label label-success">Principiante</span> <br> Ricardo Robaina |[**Git em projetos acadêmicos**](#Git_em_projetos_acadêmicos) <br> <span class="label label-success">Principiante</span> <br> Sandro Custódio |
-| **15:10** <td colspan=4><center>**Coffee-Break**</center> |
+| **15:10** <td colspan=4><center>**Coffee-Break**</center> ||||
 | **15:40** | [**Dados no espaço-tempo: Trabalhando com Dados Georreferenciados no MongoDB**](#Dados_no_espaço-tempo:_Trabalhando_com_Dados_Georreferenciados_no_MongoDB) <br> <span class="label label-success">Principiante</span> <br> Ricardo Robaina | [**Introdução ao Desenvolvimento Móvel com Ionic**](#Introdução_ao_Desenvolvimento_Móvel_com_Ionic) <br> <span class="label label-success">Principiante</span> <br> Rafael Jeffman | [**Mecanismos anti-exploit nativos em distribuições Linux da atualidade**](#Mecanismos_anti-exploit_nativos_em_distribuições_Linux_da_atualidade) <br> <span class="label label-warning">Intermediário</span> <br> Roner Rodriguez |
 | **16:30** | [**Como entregar aplicações Java com mais eficiência usando Quarkus**](#Como_entregar_aplicações_Java_com_mais_eficiência_usando_Quarkus) <br> <span class="label label-warning">Intermediário</span> <br> Rodrigo Freitas | [**PHP e PostgreSQL: Dois elefantes ajudando no seu projeto!**](#PHP_e_PostgreSQL:_Dois_elefantes_ajudando_no_seu_projeto!) <br> <span class="label label-success">Principiante</span> <br> Everton Catto Heckler | [**Ferramentas open source e colaborativas para validação de notícias online**](#Ferramentas_open_source_e_colaborativas_para_validação_de_notícias_online) <br> <span class="label label-success">Principiante</span> <br> Equipe Unihacker |
-| **17:20** <td colspan=4><center>**Encerramento**<br> Espaço Zap Tchê <br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
+| **17:20** <td colspan=4><center>**Encerramento**<br> Espaço Zap Tchê <br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> ||||
 
 ## Palestras
 
@@ -210,9 +210,29 @@ Graduandos em Engenharia de Computação da UNIPAMPA e membros do projeto Unihac
 
 [![Espaço da Bento](images/logo_espacodabento.png)](https://www.facebook.com/EspacoDaBento)
 [![Academia Personal Care](images/logo_personalcare.png)](https://www.facebook.com/AcademiaPersonalCareBage/)
+[![Café Três Corações](images/logo_trescoracoes.png)](http://www.3coracoes.com.br/en/)
 
+[![Unicesumar](images/logo_unicesumar.png)](https://www.unicesumar.edu.br/home/)
 
+### Apoiadores
 
+[![Plancópias](images/logo_plancopias.png)](https://www.facebook.com/plancopias/)
+[![Superauto](images/logo_superauto.png)](http://fordsuperauto.com.br/empresa/superauto-bage/)
+[![Camal](images/logo_camal.png)](https://www.camal.com.br/)
+
+[![Optica Santa Clara](images/logo_santaclara.png)](https://www.facebook.com/opticasclara)
+
+### Parceiros
+
+[![Ifsul](images/logo_ifsul.png)](http://www.bage.ifsul.edu.br/)
+[![Urcamp](images/logo_urcamp.png)](https://www.urcamp.tche.br/)
+[![Faculdade Ideau](images/logo_ideau.png)](https://www.bage.ideau.com.br/)
+
+[![Unicesumar](images/logo_unicesumar.png)](https://www.unicesumar.edu.br)
+[![Cruseiro do Sul](images/logo_cruzeirodosul.png)](https://www.cruzeirodosul.edu.br)
+[![Anhanguera](images/logo_anhanguera.png)](https://www.anhanguera.com)
+
+[![Uninter](images/logo_uninter.png)](https://uninter.com)
 
 ### Divulgação
 
