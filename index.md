@@ -33,7 +33,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **14:20** | [**Desenvolvendo Jogos com Python e Pygame**](#Desenvolvendo_Jogos_com_Python_e_Pygame) <span class="label label-success">Principiante</span> <br> Rafael Jeffman | [**Introdução ao desenvolvimento Android com Kotlin**](#Introdução_ao_desenvolvimento_Android_com_Kotlin) <span class="label label-success">Principiante</span> <br> Ricardo Robaina |[**Git em projetos acadêmicos**](#Git_em_projetos_acadêmicos) <br> <span class="label label-success">Principiante</span> <br> Sandro Custódio |
 | **15:10** <td colspan=4><center>**Coffee-Break**</center> |
 | **15:40** | [**Dados no espaço-tempo: Trabalhando com Dados Georreferenciados no MongoDB**](#Dados_no_espaço-tempo:_Trabalhando_com_Dados_Georreferenciados_no_MongoDB) <br> <span class="label label-success">Principiante</span> <br> Ricardo Robaina | [**Introdução ao Desenvolvimento Móvel com Ionic**](#Introdução_ao_Desenvolvimento_Móvel_com_Ionic) <br> <span class="label label-success">Principiante</span> <br> Rafael Jeffman | [**Mecanismos anti-exploit nativos em distribuições Linux da atualidade**](#Mecanismos_anti-exploit_nativos_em_distribuições_Linux_da_atualidade) <br> <span class="label label-warning">Intermediário</span> <br> Roner Rodriguez |
-| **16:30** | [**Como entregar aplicações Java com mais eficiência usando Quarkus**](#Como_entregar_aplicações_Java_com_mais_eficiência_usando_Quarkus) <br> <span class="label label-warning">Intermediário</span> <br> Rodrigo Freitas | [**PHP e PostgreSQL: Dois elefantes ajudando no seu projeto!**](#PHP_e_PostgreSQL:_Dois_elefantes_ajudando_no_seu_projeto!) <br> <span class="label label-success">Principiante</span> <br> Everton Catto Heckler | [**Projeto Unihacker**](#Projeto_Unihacker) <br> <span class="label label-success">Principiante</span> <br> Pablo Andrades Lima |
+| **16:30** | [**Como entregar aplicações Java com mais eficiência usando Quarkus**](#Como_entregar_aplicações_Java_com_mais_eficiência_usando_Quarkus) <br> <span class="label label-warning">Intermediário</span> <br> Rodrigo Freitas | [**PHP e PostgreSQL: Dois elefantes ajudando no seu projeto!**](#PHP_e_PostgreSQL:_Dois_elefantes_ajudando_no_seu_projeto!) <br> <span class="label label-success">Principiante</span> <br> Everton Catto Heckler | [**Ferramentas open source e colaborativas para validação de notícias online**](#Ferramentas_open_source_e colaborativas_para_validação_de_notícias_online) <br> <span class="label label-success">Principiante</span> <br> Equipe Unihacker |
 | **17:20** <td colspan=4><center>**Encerramento**<br> Espaço Zap Tchê <br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 
 ## Palestras
@@ -174,13 +174,13 @@ Dependendo do sistema onde vamos aplicar está técnica de Full-text search usam
 
 [**Everton Catto Heckler**](https://www.linkedin.com/in/everton-heckler/) é CEO da Catto Tecnologia Aplicada. Graduado na Urcamp, é desenvolvedor de software a muito tempo.
 
-### Projeto Unihacker
+### Ferramentas open source e colaborativas para validação de notícias online
 
-Apresentação do Projeto Unihacker
+Nós somos do projeto Unihacker e temos como desafio a validação de informações e notícias online. Iremos apresentar o projeto, nossas motivações e algumas ferramentas open source e colaborativas que ajudam na validação de informações e notícias no meio digital.
 
-### Pablo Andrades Lima
+### Equipe Unihacker
 
-[**Pablo Andrades Lima**](http://unihacker.club/) é Graduando de Engenharia de Computação da Unipampa Bagé, Membro do Grupo Unihacker e Técnico Regional de TI da Emater/RS.
+Graduandos em Engenharia de Computação da UNIPAMPA e membros do projeto Unihacker.
 
 ## Local
 
