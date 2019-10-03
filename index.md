@@ -21,7 +21,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 ## Programação
 
-| <center> Horário </center> | <center> Sala 2302: Espaço Ípsillon </center> | <center> Sala 2304: Espaço Personal Care </center> | <center> Sala 2305: Espaço .Com Informática </center> |
+| <center> Horário </center> | <center> Sala 2302 <br> Espaço Ípsillon </center> | <center> Sala 2304 <br> Espaço Personal Care </center> | <center> Sala 2305  <br> Espaço .Com Informática </center> |
 |:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | **08:30** <td colspan=4><center>**Credenciamento** <br> Espaço Café da Bento <br> </center> ||||
 | **09:00** <td colspan=4><center>**Abertura**<br> Espaço Zap Tchê <br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> ||||
